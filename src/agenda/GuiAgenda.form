@@ -162,7 +162,7 @@
         <Component class="javax.swing.JLabel" name="fondoPrincipal">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Jairo\Desktop\Agenda\img\finaldeverdad2.png"/>
+              <Image iconType="2" name="C:\Users\EAG\Desktop\Agenda\img\finaldeverdad2.png"/>
             </Property>
           </Properties>
           <Constraints>
@@ -324,7 +324,7 @@
         <Component class="javax.swing.JLabel" name="fondoContacto">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Jairo\Desktop\Agenda\img\finaldeverdad1.png"/>
+              <Image iconType="2" name="C:\Users\EAG\Desktop\Agenda\img\finaldeverdad1.png"/>
             </Property>
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
               <Dimension value="[576, 576]"/>

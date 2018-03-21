@@ -101,7 +101,7 @@ public class GuiAgenda extends javax.swing.JFrame {
         });
         jPanel1.add(bMinimizar, new org.netbeans.lib.awtextra.AbsoluteConstraints(474, 10, 20, 20));
 
-        fondoPrincipal.setIcon(new javax.swing.ImageIcon("C:\\Users\\Jairo\\Desktop\\Agenda\\img\\finaldeverdad2.png")); // NOI18N
+        fondoPrincipal.setIcon(new javax.swing.ImageIcon("C:\\Users\\EAG\\Desktop\\Agenda\\img\\finaldeverdad2.png")); // NOI18N
         jPanel1.add(fondoPrincipal, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 576, 576));
 
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -170,7 +170,7 @@ public class GuiAgenda extends javax.swing.JFrame {
         });
         jPanel2.add(bAgregar, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 500, 90, 30));
 
-        fondoContacto.setIcon(new javax.swing.ImageIcon("C:\\Users\\Jairo\\Desktop\\Agenda\\img\\finaldeverdad1.png")); // NOI18N
+        fondoContacto.setIcon(new javax.swing.ImageIcon("C:\\Users\\EAG\\Desktop\\Agenda\\img\\finaldeverdad1.png")); // NOI18N
         fondoContacto.setPreferredSize(new java.awt.Dimension(576, 576));
         jPanel2.add(fondoContacto, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
